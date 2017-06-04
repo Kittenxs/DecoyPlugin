@@ -1,0 +1,8 @@
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\bin\Debug\TrueCarry™.dll
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\bin\Debug\TrueCarry™.pdb
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\bin\Debug\CSharpAPI.dll
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\bin\Debug\PluginsCommon.dll
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\bin\Debug\CSharpAPI.xml
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\obj\Debug\TrueCarry™.csprojResolveAssemblyReference.cache
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\obj\Debug\TrueCarry™.dll
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\TrueCarry™\TrueCarry™\obj\Debug\TrueCarry™.pdb
